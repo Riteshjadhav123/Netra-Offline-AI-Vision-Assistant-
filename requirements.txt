@@ -1,0 +1,7 @@
+# Netra Dependencies
+onnxruntime>=1.15.0       # ONNX Runtime inference engine (or onnxruntime-qnn on Snapdragon ARM64)
+opencv-python>=4.7.0      # Camera capture & visual overlay UI
+easyocr>=1.7.0            # Offline text recognition (OCR)
+pyttsx3>=2.90             # Offline Text-to-Speech (Windows SAPI)
+numpy>=1.23.0             # Array & tensor operations
+scipy>=1.10.0             # Signal processing

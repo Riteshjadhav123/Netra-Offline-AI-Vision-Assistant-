@@ -1,0 +1,31 @@
+# Python & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+*.log
+
+# Workspace Scratch & Temporary Development Files
+scratch/
+NETRA_FINAL_SUBMISSION/
+NETRA_*.md
+PROJECT_PLAN.md
+
+# Security & Credentials
+.env
+*.pem
+*.key
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
